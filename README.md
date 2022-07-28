@@ -30,6 +30,4 @@ financiamento, exposição dos sites institucionais.
 - [@JonathanR95](https://github.com/JonathanR95)
 
 
-## Acesse a pagina em:
-
-- [Projeto Final](https://jonathanr95.github.io/introducao-javascript/)     
+    
