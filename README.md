@@ -28,6 +28,8 @@ financiamento, exposição dos sites institucionais.
 ## Autor
 
 - [@JonathanR95](https://github.com/JonathanR95)
+- [@Alessandro Assuncao](https://github.com/alessandroa98)
+
 
 
 ## Acesse a pagina em:
